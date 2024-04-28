@@ -1,0 +1,49 @@
+body{
+    background-image: url('bg04.jpg');
+    background-size: cover;
+}
+
+#head a{
+    border: 2px solid white;
+    color: antiquewhite;
+    padding:.2rem 1.5rem;
+    border-radius: 10px;
+    float: right;
+    text-decoration: none;
+    margin: 10px;    
+}
+
+#body{
+    position:absolute;
+    margin-top: 50px;
+    left: 500px;
+    color:honeydew;
+}
+
+
+button{
+    position: absolute;
+    top: 300px;
+    left: 620px;
+    margin: 2px;
+    padding: 0.5rem 0.5rem;
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: black;
+    border: 2px solid white;
+}
+
+#watch{
+    position: absolute;
+    top: 300px;
+    left: 500px;
+    margin: 2px;
+    border: 2px solid white;
+    padding: 0.5rem 0.5rem;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: aquamarine;
+
+
+}
